@@ -1,0 +1,9 @@
+jax>=0.4.13
+jaxlib>=0.4.13
+equinox>=0.10.11
+optax>=0.1.7
+torch>=2.0.0
+torchvision>=0.15.0
+einops>=0.6.1
+matplotlib>=3.7.0
+jaxtyping>=0.2.20
